@@ -1,7 +1,7 @@
 public class Comments {
     public static void main(String[] args) {
         System.out.println("Single Line Comment");
-        //This line is omitted by the compiler..
+        //This line is omitted by the compiler
         System.out.println("Yay!.. This line is executed!.");
         Comments comments = new Comments();
 

@@ -8,7 +8,7 @@ There are mainly two kinds of comments:
 •	Documentation Comments
 
 
-***Implementation Comments
+**Implementation Comments
 Implementation comments are note-to-self or descriptive comments.
 
 --->Single-Line Comments
