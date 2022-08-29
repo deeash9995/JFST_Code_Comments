@@ -21,7 +21,7 @@ and helps in adding more description
 */
 
 Clone the repo and try executing the code
-https://gitlab.com/gjdeepika9/jfst_comments.git
+git@github.com:deeash9995/JFST_Code_Comments.git
 
 Try:
 •	Try single-line commenting and uncommenting the lines of code.
