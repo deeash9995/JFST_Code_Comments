@@ -16,6 +16,6 @@ public class Comments {
          * more description to the code
          */
         System.out.println("Multi Line Comment");
-        System.out.printf("Multi line commit is omitted!");
+        System.out.print("Multi line commit is omitted!");
     }
 }
